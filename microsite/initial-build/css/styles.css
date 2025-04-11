@@ -1,0 +1,181 @@
+  h1 {
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 29rem;
+    letter-spacing: -45px;
+    margin-block-start: -6rem;
+    margin-block-end: 0rem;
+    
+  }
+
+  h2 {
+    font-family: monospace;
+    font-size: 2rem;
+    font-weight: 50;
+  }
+
+  h3 {
+    font-family: monospace;
+    font-size: 20rem;
+    letter-spacing: -1.75rem;
+  }
+
+  h4 {
+    font-weight: 100;
+    font-style: italic;
+    margin-bottom: -.5rem;
+ }
+
+  h3.early {
+    margin-top: 15rem;
+    margin-bottom: 0;
+  }
+
+  h3.life {
+    margin-top: -9rem;
+    margin-left: 43.51rem;
+}  
+
+h3.activism {
+    font-size: 21.5rem;
+    letter-spacing: -2.25rem;
+    margin-top: 2rem;
+    transform: rotate(5deg);
+}
+  p {
+    font-family: monospace;
+    font-weight: 100;
+  }
+
+  span.e {
+    position: relative;
+    top:.1em;
+    transform: rotate(45deg);
+}
+
+div{
+    font-family: monospace;
+}
+
+.land img {
+    width: 40rem;
+    position: relative;
+    margin-left: 45rem;
+    margin-top: -10rem;
+}
+
+div.intro{
+    position: relative;
+    margin-left: 7rem;
+    margin-top: -24rem;
+    font-family: monospace;
+    font-size: 2rem;
+}
+div.container {
+    display: grid
+    ;
+        grid-template-columns: 200px 200px;
+        grid-row: auto auto;
+        grid-column-gap: 110px;
+        grid-row-gap: 20px;
+        font-style: italic;
+        font-weight: 100;
+        font-size: 1.75 rem;
+}
+
+div.act1 {
+    display: flex
+;
+    flex-direction: column;
+    gap: 4rem;
+    width: 30rem;
+    font-style: italic;
+    font-weight: 100;
+    font-size: 1.25rem;
+    margin-top: -55rem;
+    margin-left: 2rem;
+}
+
+
+div.act2 {
+    display: grid
+    ;
+        grid-template-columns: 200px 200px;
+        grid-row: auto auto;
+        grid-column-gap: 110px;
+        grid-row-gap: 20px;
+        font-style: italic;
+        font-weight: 100;
+        font-size: 1.75 rem;
+        align-items: vertical;
+}
+
+div.e1 {
+    margin-left: 5rem;
+    margin-right: 20rem;
+    margin-top: -35rem;
+    line-height: 1.5rem;
+}
+
+div.e2{
+    margin-left: 45rem;
+    margin-right: -22rem;
+    margin-top: -5rem;
+    line-height: 1.5rem;
+}
+
+div.rep {
+    margin-left: 5rem;
+    margin-right: 31rem;
+    margin-top: -22rem;
+    line-height: 1.5;
+}
+
+div.just {
+    margin-left: 5rem;
+    margin-right: 31rem;
+    margin-top: -22rem;
+    line-height: 1.5;
+}
+
+div.LGBTQ {
+    margin-left: 5rem;
+    margin-right: 31rem;
+    margin-top: -22rem;
+    line-height: 1.5;
+}
+
+div.mental {
+    margin-left: 5rem;
+    margin-right: 31rem;
+    margin-top: -19rem;
+    line-height: 1.5;
+}
+
+h5 {
+    font-family: monospace;
+    font-size: 4rem;
+    font-weight: 600;
+    letter-spacing: -.5rem;
+}
+
+h5.if {
+    margin-left: 30rem;
+    margin-right: -24rem;
+    transform: rotate(5deg);
+    margin-top: -20rem;
+}
+
+h5.same {
+    margin-left: 0rem;
+    margin-right: 20rem;
+    transform: rotate(-4deg);
+    margin-top: 0rem;}
+
+h5.ten {
+    margin-left: 44rem;
+    margin-right: -24rem;
+    transform: rotate(2deg);
+    margin-top: 5rem;
+}
+
